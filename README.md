@@ -84,7 +84,7 @@ The purpose of this app is to provide a foundation for a video tutorial teaching
     - Fill up the sections. 
     ![](./images/image.png)
     - Now that we have created a Frontend Observability application, we need to instrument our web application. Choose the framework you are using, copy the pre-configured instrumentation script and paste it before the end of the head element on every page you want to instrument.
-    ![alt text](image.png)
+    ![alt text](./images/image1.png)
 
 ### Setting Up Grafana Faro in a React Application
 
